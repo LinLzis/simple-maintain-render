@@ -6,6 +6,7 @@ Simple maintain page render by jsx in Vue 3.0+
 这个维护界面的元素很简单，一个页面主标题，一个背景图片，一段描述文字，以及返回首页的按钮。
 
 DEMO效果如下：
+
 ![image](https://github.com/LinLzis/simple-maintain-render/blob/master/sample.png)
 
 ## Guideline
